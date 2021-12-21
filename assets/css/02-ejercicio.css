@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+    line-height: 25px;
+    text-align: justify;
+}
+
+
+
+
+
+h1{
+    text-align: right;
+}
+
+.letra{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; 
+}
+
+
+
+.orange{
+    color: orange;
+    font-weight: bold;
+}
+
+.orange_l{
+    color: orange;
+    
+   
+}
+
+.verde{
+    color: green;
+    background-color: white;
+}
+

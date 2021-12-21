@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(77, 153, 84, 0.911);
+}
+
+.textoUno{
+    color: honeydew ;
+    font-style: italic;
+}
+
+.textoDos{
+    color: rgb(218, 180, 199);
+}
+
+.textoTres{
+    color: rgb(177, 126, 18);
+}
+
+.textoCuatro{
+    color: rgb(148, 19, 40);
+}

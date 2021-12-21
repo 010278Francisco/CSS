@@ -1,0 +1,44 @@
+       /*Etiqueta dando algunos ajustes a la etiqueta h1 tamaño de letra 
+        y color azul
+        medidas comunes px, %, em, rem*/
+.encavezado{
+            /*Tamño de fuente*/
+            font-size: 72px;
+            /*Color Fuente*/
+            color: blue;
+            /*Fondo de color*/
+            background-color: burlywood;
+            /*Alinear el texto centrado*/
+            text-align: center;
+
+            /*Letras a mayusculas*/
+            
+            text-transform: uppercase;
+        }
+
+#texto{
+    color: blue;
+    background-color: red;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.texto{
+    color: white;
+    background-color: black;
+
+        }
+p{
+    color: white;
+    background-color: dimgray;
+}
+
+p{
+    color: yellow;
+    background-color: teal;
+}
+
+
+
+
+  
