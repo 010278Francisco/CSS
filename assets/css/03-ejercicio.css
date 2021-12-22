@@ -1,0 +1,91 @@
+body{
+    background-color:  #1c964e ;
+    
+
+}
+
+h1{
+     color: white; text-shadow: black 0.1em 0.1em 0.2em
+}
+
+
+.uno_d{
+    
+    width: 800px;
+    height: 35px;
+    background-color: rgb(241, 240, 240);
+    margin-left: 350PX;
+    border: black 10px solid;
+    border-radius: 20px;
+    padding: 5px;
+    
+}
+.uno{
+    width: 700px;
+    height: 35px;
+    background-color: rgb(150, 78, 78);
+    margin-right: auto;
+    border: rgb(153, 37, 37) 10px solid;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 5px;
+    color: white;
+}
+.dos{
+    width: 770px;
+    height: 50px;
+    background-color: #a5693b ;
+    margin-left: auto;
+    border:  #833e09  10px solid;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 5px;
+    color: white;
+}
+
+.tres{
+    
+    width: 800px;
+    height: 20px;
+    background-color: rgb(21, 16, 165);
+    margin-left: 350PX;
+    border: rgb(76, 113, 160) 2px dashed ;
+    border-radius: 3px;
+    padding: 16px;
+    color: white;
+}
+
+.cuatro{
+    width: 700px;
+    height: 25px;
+    background-color: rgb(129, 63, 63);
+    margin-right: auto;
+    border: brown 10px solid;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: white;
+    padding: 1px;
+}
+.cinco{
+    width: 770px;
+    height: 25px;
+    background-color: #a5693b ;
+    margin-left: auto;
+    border:  #833e09  10px solid;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    padding: 2px;
+}
+
+.seis{
+    
+    width: 780px;
+    height: 20px;
+    background-color: rgb(21, 16, 165);
+    margin-left: 350PX;
+    border: rgb(76, 113, 160) 2px dashed ;
+    border-radius: 3px;
+    padding: 25px;
+    color: white;
+}
